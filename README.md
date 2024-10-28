@@ -1,3 +1,5 @@
+school  xp  games
+
 # Welcome to the official beansite repository!
 This will be made avaliable on google drive for school browsing
 
